@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-next-app": "^13.5.2",
+    "react-scroll": "^1.8.9"
+  }
+}
